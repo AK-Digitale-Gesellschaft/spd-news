@@ -4,3 +4,5 @@ SPD-News ist ein Wordpress-Plugin und vielmehr eine Sammlung von Widgets, die RS
 Zurzeit ist das Plugin noch ein Proof of Concept, um das Zusammenspiel von Wordpress und TinyTinyRSS auszuprobieren.
 
 Der Code ist scheiße und muss noch vernünftig objektorientiert werden. ;-)
+
+Demo: https://ortsverein.akdigitalegesellschaft.de/ <- Unten auf der Seite.
